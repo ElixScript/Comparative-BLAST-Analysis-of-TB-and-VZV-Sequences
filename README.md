@@ -1,7 +1,5 @@
 # Comparative-BLAST-Analysis-of-TB-and-VZV-Sequences
 
-# **Comparative BLAST Sequence Analysis**
-
 Repository ini berisi implementasi analisis bioinformatika menggunakan **NCBI BLAST** untuk mengidentifikasi dua sekuens biologis:
 
 1. gen **rpoB** dari *Mycobacterium tuberculosis*, dan
